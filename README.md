@@ -1,6 +1,6 @@
 # memory-game-in-email-poc
 
-We created this css-only memory game as an experiment at one of our company days' hackathons.
+We created this css-only memory game as an experiment at one of our company days' hackathons. You can try it out here: https://edmdesigner.github.io/memory-game-in-email-poc/
 
 Supported email clients: https://www.caniemail.com/search/?s=checked
 
